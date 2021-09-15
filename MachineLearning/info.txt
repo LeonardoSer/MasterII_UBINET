@@ -1,0 +1,10 @@
+ Lessons will be from 14.00 to 17.15. For each lesson, the corresponding sections of the book and the corresponding videos of Shai Ben-David's course are listed.
+
+    First lesson (September 14, O+111): chapters 1-2, videos for lectures 1-2.
+    Second lesson (September 21, ): chapters 3-4, videos for lectures 3-5.
+    Third lesson (September 28, ): chapter 5, section 6.1 and the beginning of section 6.2, videos for lecture 6 (you can skip from minute 53 until 1:15), lecture 7 (watch until minute 50) and lecture 8 (watch from minute 11 until minute 46).
+    Fourth lesson (October 5, ): sections 6.2-6.4, sections 9.1.1 and 9.1.3, videos for lectures 7, 8, and 9 (note that the videos do not cover all the sections).
+    Fifth lesson (October 12, ): chapter 10 (without proofs), section 12.1.1, videos for lectures 17 (from minute 45), 18, 19, and 20 (up to 1:04:00).
+    Sixth lesson (October 29, ): beginning of section 12.2, sections 12.3, 9.2, 9.3, videos for lectures 20 (from 1:04:00), 21, and 22 (you can skip between 0:14:30 and 0:48:20).
+    Seventh lesson (October 26, ): sections 7.1-7.3 (without proofs), chapter 11, videos for lectures 12 (from 0:44:40), 13, 14, and 15 (up to 0:35:00). Note that the videos do not cover sections 11.2 and 11.3. 
+
