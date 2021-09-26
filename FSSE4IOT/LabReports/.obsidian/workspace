@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "87f9346310673fd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d0d76253a068965",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "propagationReport.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52b0d72f001fdd8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f866b4771b416b11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98813817e26adbf0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "15e4f786486bc519",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2728036be79d787c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7e666f1f879f491",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e07d83764641bb20",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "propagationReport.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5d0d76253a068965",
+  "lastOpenFiles": [
+    "propagationReport.md",
+    "Untitled.md"
+  ]
+}
