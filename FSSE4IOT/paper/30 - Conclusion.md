@@ -1,0 +1,3 @@
+ # Conclusions 
+ The integration of ML within IoT devices will provide them with a flexibility and processing capabilities never seen before. The TinyML paradigm proposes to adapt advanced ML techniques to the constraints of MCUs in order to convert them in real smart objects. In this work, a comprehensive review and discussion of this novel and vibrating ecosystem have been presented. The related challenges and opportunities have been identified as well as the potential
+services that will be enabled by these intelligent small elements.

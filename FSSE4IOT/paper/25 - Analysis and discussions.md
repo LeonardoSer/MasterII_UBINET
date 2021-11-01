@@ -1,0 +1,3 @@
+## Communication protocols
+
+The availability of multiple RATs embedded in the device is also one of its key characteristics. WiFi or Bluetooth are the most usual technologies as they are very well-known standards that can reach high data-rates. Other options based on cellular communications such as 4 G/5G may be also considered. However, all these RATs require great amount of energy to work. For that reason, LPWAN-based solutions such as LoRaWAN, Sigfox, or Narrow Band—Internet of Things (NB-IoT)  are currently being adopted by the IoT market as they provide very long transmission distances with highly reduced energy consumption, although with the limitation of severely limiting the transmission rate.
