@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "43414743befe4ad6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5136fd9a071fd13",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "00 - PORCODDIO_EVOLVING_CRISTO.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6baffab3a17628e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea33b49c255b08af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cef316a2fc3a3d41",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8847d80c5cab451f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6bbefd5f3e60f918",
+    "type": "split",
+    "children": [
+      {
+        "id": "629ceb53c25f3733",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4fe90a3e164d09d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 - PORCODDIO_EVOLVING_CRISTO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b5136fd9a071fd13",
+  "lastOpenFiles": [
+    "00 - PORCODDIO_EVOLVING_CRISTO.md",
+    "EvolvingInternet_Adressing_Routing_2021_2022.pdf",
+    "Course3-CongestionControl.pdf",
+    "Pasted image 20211104224117.png",
+    "assets/Pasted image 20211103104128.png",
+    "4_5999271144379648298.pdf",
+    "Course2-ChallengedNetworks.pdf",
+    "assets/Pasted image 20211103113746.png",
+    "assets/Pasted image 20211103114319.png",
+    "Course1-Mobility.pdf"
+  ]
+}

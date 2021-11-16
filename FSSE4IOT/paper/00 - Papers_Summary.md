@@ -12,5 +12,3 @@ the main contributions of this work are the following:
 - A wide discussion of the TinyML concept as wellas the range of potentially benefited applications.
 -A survey of the principal available frameworks for integrating ML algorithms within MCUs.
 - Insights regarding the real implementation of ML-based schemes over frugal objects to solve the problem of intelligent interface selection in a multi-RAT set up
-
-

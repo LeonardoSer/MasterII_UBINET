@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "7f75e70f171f6496",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc6fc97498665756",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "PaperCollected/TinyML_Enabled_Frugal_Smart_Objects_Challenges_and_Opportunities.pdf"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97c5da8b52dee169",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f7e0d093c0012d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33c19b8e4269af28",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "71e969ba0210ba41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "823eb3ff527068fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3c967b20014309f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5aadfcf2f05eefa4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PaperCollected/TinyML_Enabled_Frugal_Smart_Objects_Challenges_and_Opportunities.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bc6fc97498665756",
+  "lastOpenFiles": [
+    "PaperCollected/TinyML_Enabled_Frugal_Smart_Objects_Challenges_and_Opportunities.pdf",
+    "PaperCollected/2003.04821.pdf",
+    "assetsPaper/Pasted image 20211106120225.png",
+    "assetsPaper/000.md",
+    "30 - Conclusion.md",
+    "25 - Analysis and discussions.md",
+    "20 - State of the Art.md",
+    "15 - Introduction.md",
+    "00 - Papers_Summary.md",
+    "PaperCollected/2106.07597.pdf"
+  ]
+}
