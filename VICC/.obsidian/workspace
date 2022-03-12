@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "e4fd78d24e5681e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "24613663a9420f0d",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "Pasted image 20220130135224.png"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09ecb808df930e05",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd9d28f6bbe039b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f784f60e7ac6dd2c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7b8091d2efa0ad62",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0c5bd6594a177753",
+    "type": "split",
+    "children": [
+      {
+        "id": "b66396d9646ffd75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "235c9f13fa324083",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pasted image 20220130135224.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "24613663a9420f0d",
+  "lastOpenFiles": [
+    "Pasted image 20220130135224.png",
+    "quick_guide_to_pass_the_fucking_dirty_exam.pdf",
+    "quick_guide_to_pass_the_fucking_dirty_exam.md"
+  ]
+}
