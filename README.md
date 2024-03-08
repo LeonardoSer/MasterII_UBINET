@@ -1,4 +1,4 @@
-# Master II Ubinet Material
+# Master II Ubinet Material (Polytech Nice-Sophia)
 
 Welcome to my repository for the 2nd year of my Master's studies in the Ubinet program at Université Côte d'Azur. This repository is a collection (better to say a mess) of materials, notes, and projects related to my coursework and research throughout the year. The Ubinet program is renowned for its cutting-edge approach to networks and digital society, and this repository reflects the breadth and depth of that curriculum.
 About Ubinet
