@@ -4,7 +4,7 @@ Welcome to my repository for the 2nd year of my Master's studies in the Ubinet p
 About Ubinet
 
 ## What's Ubinet? 
-The Ubinet Master's program is dedicated to exploring the forefront of digital network technologies and their impact on society. It covers a wide range of topics, from the technical underpinnings of the internet and blockchain technology to the latest developments in data science, machine learning, and quantum networking. The program aims to equip students with the knowledge and skills necessary to navigate and shape the future of digital networks.
+The Ubinet Master's program is dedicated to exploring the forefront of digital network technologies and their impact on society. It covers a wide range of topics, from the technical underpinnings of the internet and blockchain technology to the latest developments in data science, machine learning, and quantum networking.
 
 
 ## How to Use This Repository
@@ -15,13 +15,13 @@ This repository serves as a comprehensive reference for students enrolled in the
 
 This repository is organized by course, each folder containing relevant materials such as lecture notes, assignments, projects, and study guides. Below is an overview of the included courses:
 
-    AlgoAppToDS (Algorithmic Approaches to Data Science)
-    Algos4Tels (Algorithms for Telecommunications)
-    Blockchain
-    DataMining
-    EvolvingInternet
-    FSSE4IOT (Formal Systems and Software Engineering for IoT)
-    GraphAlgos-CombOpt (Graph Algorithms and Combinatorial Optimization)
-    IMNA (Internet Measurements and Network Analysis)
-    MachineLearning
-    QuantumNetworking
+- AlgoAppToDS (Algorithmic Approaches to Data Science)
+- Algos4Tels (Algorithms for Telecommunications)
+- Blockchain
+- DataMining
+- EvolvingInternet
+- FSSE4IOT (Formal Systems and Software Engineering for IoT)
+- GraphAlgos-CombOpt (Graph Algorithms and Combinatorial Optimization)
+- IMNA (Internet Measurements and Network Analysis)
+- MachineLearning
+- QuantumNetworking
