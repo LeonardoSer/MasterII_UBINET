@@ -15,13 +15,13 @@ This repository serves as a comprehensive reference for students enrolled in the
 
 This repository is organized by course, each folder containing relevant materials such as lecture notes, assignments, projects, and study guides. Below is an overview of the included courses:
 
-- AlgoAppToDS (Algorithmic Approaches to Data Science)
-- Algos4Tels (Algorithms for Telecommunications)
-- Blockchain
-- DataMining
-- EvolvingInternet
-- FSSE4IOT (Formal Systems and Software Engineering for IoT)
-- GraphAlgos-CombOpt (Graph Algorithms and Combinatorial Optimization)
-- IMNA (Internet Measurements and Network Analysis)
-- MachineLearning
-- QuantumNetworking
+- `AlgoAppToDS` (Algorithmic Approaches to Data Science)
+- `Algos4Tels` (Algorithms for Telecommunications)
+- `Blockchain`
+- `DataMining`
+- `EvolvingInternet`
+- `FSSE4IOT` (Formal Systems and Software Engineering for IoT)
+- `GraphAlgos`-CombOpt (Graph Algorithms and Combinatorial Optimization)
+- `IMNA` (Internet Measurements and Network Analysis)
+- `MachineLearning`
+- `QuantumNetworking`
